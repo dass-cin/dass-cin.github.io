@@ -22,7 +22,7 @@ Esta página é uma wiki aberta aos membros do grupo de pesquisa. Para começar 
   * Bernardette
   * Danusa
   * Diego 
-  * Everaldo
+  * Everaldo Neto
   * Gabrielle
   * Marcelo
   * Paulo
