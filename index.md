@@ -17,4 +17,14 @@ title: DASS
 Esta página é uma wiki aberta aos membros do grupo de pesquisa. Para começar a colaborar, basta acessar o link acima [editar conteúdo](https://github.com/dass-cin/dass-cin.github.io/blob/master/index.md). A autenticação é feita através da sua conta no Github. Através do [repositório no Github](https://github.com/dass-cin/dass-cin.github.io), qualquer membro pode criar novas páginas ou até mesmo incrementar o layout da página.
 
 
-Gabrielle
+## Participantes
+  * Ana Carolina
+  * Bernardette
+  * Danusa
+  * Diego 
+  * Everaldo
+  * Gabrielle
+  * Marcelo
+  * Paulo
+  * Pricilla
+  
