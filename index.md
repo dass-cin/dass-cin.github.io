@@ -1,7 +1,7 @@
 ---
 published: true
 permalink: /
-layout: hero
+layout: default
 filename: index.md
 title: DASS
 ---
