@@ -14,7 +14,7 @@ title: DASS
 
 ## Seminários realizados
 * Integração de Dados (Danusa)
-* Web semântica e Linked Data - (Diego) - [download da apresentação](seminarios/02-linkeddata-dataintegration-and-semantic-web-diego.ppt)
+* Web semântica e Linked Data - (Diego) - [download da apresentação](/seminarios/02-linkeddata-dataintegration-and-semantic-web-diego.pptx)
 
 ----
 ## Como colaborar
