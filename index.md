@@ -11,11 +11,6 @@ title: DASS
 
   Olá, sejam bem-vindos à página do grupo de pesquisa DASS (Dados, Semântica e Serviços) do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE).
 
-
-## Seminários realizados
-* Integração de Dados (Danusa)
-* Web semântica e Linked Data - (Diego) - [download da apresentação](/seminarios/02-linkeddata-dataintegration-and-semantic-web-diego.pptx)
-
 ----
 ## Como colaborar
 Esta página é uma wiki aberta aos membros do grupo de pesquisa. Para começar a colaborar, basta acessar o link acima [editar conteúdo](https://github.com/dass-cin/dass-cin.github.io/blob/master/index.md). A autenticação é feita através da sua conta no Github. Através do [repositório no Github](https://github.com/dass-cin/dass-cin.github.io), qualquer membro pode criar novas páginas ou até mesmo incrementar o layout da página.
