@@ -6,8 +6,9 @@ filename: index.md
 title: DASS
 ---
 
-##  Apresentação
+[:pencil2: editar conteúdo](https://github.com/dass-cin/dass-cin.github.io/blob/master/index.md)
 
+##  Apresentação
 
   Olá, sejam bem-vindos à página do grupo de pesquisa DASS (Dados, Semântica e Serviços) do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE).
 
