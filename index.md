@@ -6,7 +6,7 @@ filename: index.md
 title: DASS
 ---
 
-[:pencil2: editar conteúdo](https://github.com/dass-cin/dass-cin.github.io/blob/master/index.md)
+[editar conteúdo](https://github.com/dass-cin/dass-cin.github.io/blob/master/index.md)
 
 ##  Apresentação
 
