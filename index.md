@@ -19,9 +19,9 @@ Esta página é uma wiki aberta aos membros do grupo de pesquisa. Para começar 
 
 ## Participantes
   * Ana Carolina
-  * Bernardette
+  * Bernadette Farias Lóscio
   * Danusa
-  * Diego 
+  * Diego Pessoa
   * Everaldo Neto
   * Gabrielle
   * Marcelo
